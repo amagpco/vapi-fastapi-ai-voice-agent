@@ -63,7 +63,7 @@ The API will be available at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 To use this project with **Voice AI Platform (VAPI)**:
 
 1. **Create a VAPI Account**  
-   - Go to [VAPI Sign Up](https://vapi.example.com/signup) and create an account.
+   - Go to [VAPI Sign Up](https://vapi.ai/) and create an account.
    - Verify your email and log in.
 
 2. **Create a New Assistant / Voice Project**  
