@@ -114,9 +114,3 @@ curl -X POST "http://127.0.0.1:8000/chat/completions" \
 
 ---
 
-## Environment Variables
-
-* `MONGODB_URI`: MongoDB connection string
-* `OPENAI_API_KEY`: OpenAI API key (for AI completions)
-
-```
