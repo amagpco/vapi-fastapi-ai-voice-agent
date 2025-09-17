@@ -1,4 +1,3 @@
-```markdown
 # 🦷 Dental Clinic Voice Assistant
 
 This project is an **AI-powered FastAPI application** that simulates a voice/chat assistant for a dental clinic.  
