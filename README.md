@@ -14,31 +14,6 @@ It allows users to interact with the clinic, manage appointments, and query avai
 
 ---
 
-## Project Structure
-
-```
-
-project-root/
-├─ api/
-│  ├─ routes.py          # FastAPI router definitions (endpoints only)
-│  ├─ chat\_logic.py      # Chat request handling and streaming logic
-│  ├─ tool\_handler.py    # Dispatcher for tool calls (appointments, slots)
-│  └─ utils.py           # Helper functions (e.g., load clinic info)
-├─ core/
-│  └─ config.py          # MongoDB and OpenAI client configuration
-├─ services/
-│  └─ ...                # Business logic for appointments and slots
-├─ clinic\_info.txt       # Clinic information used as system prompt context
-├─ main.py               # FastAPI application entrypoint
-├─ requirements.txt      # Python dependencies
-├─ .env.example          # Example environment variables
-├─ .gitignore            # Files to ignore in git
-└─ README.md
-
-```
-
----
-
 ## Setup & Installation
 
 ### 1. Clone the Repository
