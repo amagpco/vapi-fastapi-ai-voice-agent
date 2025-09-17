@@ -1,5 +1,5 @@
 from core.config import appointments_collection, slots_collection
-from services import (
+from types.services import (
     cancel_user_appointment, 
     check_user_appointments, 
     create_user_appointment, 

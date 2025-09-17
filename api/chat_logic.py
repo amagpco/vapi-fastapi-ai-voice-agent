@@ -4,7 +4,7 @@ from fastapi import Request
 from fastapi.responses import StreamingResponse
 from core.config import openai_client
 from api.tool_handler import handle_tool_call
-from tools import tools
+from tools.tools import tools
 from api.utils import load_clinic_info
 
 
