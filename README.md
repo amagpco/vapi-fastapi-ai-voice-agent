@@ -17,7 +17,7 @@ It allows users to interact with the clinic, manage appointments, and query avai
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/voice-agent-project.git
+git clone https://github.com/amagpco/vapi-fastapi-ai-voice-agent
 cd voice-agent-project
 ````
 
