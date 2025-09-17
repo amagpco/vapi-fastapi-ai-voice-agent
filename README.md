@@ -35,7 +35,7 @@ project-root/
 ├─ .gitignore            # Files to ignore in git
 └─ README.md
 
-````
+```
 
 ---
 
